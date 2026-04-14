@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://YOUR_USERNAME.github.io/REPO_NAME/">
+  <a href="https://takakoba6213.github.io/PREVENT-Hisayama-Risk-Score/">
     <img src="https://img.shields.io/badge/_ブラウザで即起動-GitHub%20Pages-success?style=for-the-badge" />
   </a>
   <a href="./index.html">
