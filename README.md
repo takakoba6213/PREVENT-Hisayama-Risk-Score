@@ -8,7 +8,7 @@
 <!-- ↓↓↓ ここが「ワンクリック起動ボタン」です ↓↓↓ -->
 
 <p align="center">
-  <a href="https://YOUR_takakoba6213.github.io/PREVENT-Hisayama-Risk-Score/">
+  <a href="https://takakoba6213.github.io/PREVENT-Hisayama-Risk-Score/">
     <img src="https://img.shields.io/badge/▶️%20計算機を開く-LAUNCH-1a5490?style=for-the-badge&logo=heart&logoColor=white" alt="計算機を開く" />
   </a>
 </p>
