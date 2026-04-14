@@ -69,8 +69,7 @@ git push -u origin main
 1. リポジトリのページで **Settings** → **Pages** を開く
 2. **Source** を `Deploy from a branch` に設定
 3. **Branch** を `main` / `(root)` に設定して **Save**
-4. 数分後、`https://YOUR_takakoba6213.github.io/
-PREVENT-Hisayama-Risk-Score/` で公開されます
+4. 数分後、`https://takakoba6213.github.io/PREVENT-Hisayama-Risk-Score/` で公開されます
 
 ### 3. README のリンクを自分のURLに書き換え
 
